@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1481349165 source:c:\users\nico\desktop\eliminar_caracteres\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

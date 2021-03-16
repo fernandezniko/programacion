@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1475778912 source:c:\users\nico\desktop\ejercicio_palabras\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1476142330 source:c:\users\nico\desktop\2do cuatri\cadenas\ejercicio_palabras\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

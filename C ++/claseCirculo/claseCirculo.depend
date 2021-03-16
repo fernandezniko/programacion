@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1480367548 source:c:\users\nico\desktop\clasecirculo\main.cpp
+	<string.h>
+	<iostream>
+

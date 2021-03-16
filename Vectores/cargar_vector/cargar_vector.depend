@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1472836844 source:c:\users\nico\desktop\cargar_vector\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

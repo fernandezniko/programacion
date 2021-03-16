@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1478025607 source:c:\users\nico\desktop\arbol\main.c
+	"arbol.h"
+
+1478027003 c:\users\nico\desktop\arbol\arbol.h
+	<stdio.h>
+	<stdlib.h>
+	"persona.h"
+
+1476653762 c:\users\nico\desktop\arbol\persona.h
+	<stdio.h>
+	"fechas.h"
+
+1472856596 c:\users\nico\desktop\arbol\fechas.h
+
+1476653811 source:c:\users\nico\desktop\arbol\persona.c
+	"persona.h"
+
+1478028753 source:c:\users\nico\desktop\arbol\arbol.c
+	"arbol.h"
+
+1480385333 source:c:\users\nico\desktop\2do cuatri\tda\arbol\arbol.c
+	"arbol.h"
+
+1480385157 c:\users\nico\desktop\2do cuatri\tda\arbol\arbol.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"persona.h"
+
+1479415792 c:\users\nico\desktop\2do cuatri\tda\arbol\persona.h
+	<stdio.h>
+	"fechas.h"
+
+1472856596 c:\users\nico\desktop\2do cuatri\tda\arbol\fechas.h
+
+1480385157 source:c:\users\nico\desktop\2do cuatri\tda\arbol\main.c
+	"arbol.h"
+
+1478888783 source:c:\users\nico\desktop\2do cuatri\tda\arbol\persona.c
+	"persona.h"
+

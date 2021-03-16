@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1476672423 source:c:\users\nico\desktop\normalizar_cadena\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1476672547 source:c:\users\nico\desktop\2do cuatri\cadenas\normalizar_cadena\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

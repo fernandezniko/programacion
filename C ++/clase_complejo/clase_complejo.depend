@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1479181058 source:c:\users\nico\desktop\clase_complejo\main.cpp
+	<iostream>
+	"complejo.h"
+
+1479181089 source:c:\users\nico\desktop\clase_complejo\complejo.cpp
+	"complejo.h"
+	<iostream>
+
+1479179993 c:\users\nico\desktop\clase_complejo\complejo.h
+	<iostream>
+
+1479672916 source:c:\users\nico\desktop\2do cuatri\c ++\clase_complejo\complejo.cpp
+	"complejo.h"
+	<iostream>
+
+1479672894 c:\users\nico\desktop\2do cuatri\c ++\clase_complejo\complejo.h
+	<iostream>
+
+1479671901 source:c:\users\nico\desktop\2do cuatri\c ++\clase_complejo\main.cpp
+	"stdio.h"
+	<iostream>
+	"complejo.h"
+

@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1473469664 source:c:\users\nico\desktop\txtvariable_a_bin\archivo.c
+	"archivo.h"
+
+1476718189 c:\users\nico\desktop\txtvariable_a_bin\archivo.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"persona.h"
+
+1476719129 c:\users\nico\desktop\txtvariable_a_bin\persona.h
+	<stdio.h>
+	"fechas.h"
+
+1472856596 c:\users\nico\desktop\txtvariable_a_bin\fechas.h
+
+1476719129 source:c:\users\nico\desktop\txtvariable_a_bin\persona.c
+	"persona.h"
+
+1476720532 source:c:\users\nico\desktop\txtvariable_a_bin\main.c
+	"archivo.h"
+

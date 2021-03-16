@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1474655766 source:c:\users\nico\desktop\pila_estatica\main.c
+	"pila.h"
+
+1474655511 c:\users\nico\desktop\pila_estatica\pila.h
+	<stdio.h>
+	<stdlib.h>
+	"persona.h"
+
+1474655001 c:\users\nico\desktop\pila_estatica\persona.h
+	<stdio.h>
+	"fechas.h"
+
+1472856596 c:\users\nico\desktop\pila_estatica\fechas.h
+
+1474655256 source:c:\users\nico\desktop\pila_estatica\persona.c
+	"persona.h"
+
+1474654267 source:c:\users\nico\desktop\pila_estatica\pila.c
+	"pila.h"
+
+1474655766 source:c:\users\nico\desktop\2do cuatri\tda\pila\pila_estatica\main.c
+	"pila.h"
+
+1474655511 c:\users\nico\desktop\2do cuatri\tda\pila\pila_estatica\pila.h
+	<stdio.h>
+	<stdlib.h>
+	"persona.h"
+
+1474655001 c:\users\nico\desktop\2do cuatri\tda\pila\pila_estatica\persona.h
+	<stdio.h>
+	"fechas.h"
+
+1472856596 c:\users\nico\desktop\2do cuatri\tda\pila\pila_estatica\fechas.h
+
+1474655818 source:c:\users\nico\desktop\2do cuatri\tda\pila\pila_estatica\persona.c
+	"persona.h"
+
+1476057327 source:c:\users\nico\desktop\2do cuatri\tda\pila\pila_estatica\pila.c
+	"pila.h"
+

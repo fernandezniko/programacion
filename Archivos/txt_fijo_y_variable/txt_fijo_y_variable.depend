@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1473453243 source:c:\users\nico\desktop\txt_fijo_y_variable\archivos.c
+	"archivos.h"
+
+1473452708 c:\users\nico\desktop\txt_fijo_y_variable\archivos.h
+	"persona.h"
+	<stdio.h>
+	<stdlib.h>
+
+1473448116 source:c:\users\nico\desktop\txt_fijo_y_variable\main.c
+	"archivos.h"
+
+1472858992 c:\users\nico\desktop\txt_fijo_y_variable\persona.h
+	<stdio.h>
+	"fechas.h"
+
+1472856596 c:\users\nico\desktop\txt_fijo_y_variable\fechas.h
+
+1472859414 source:c:\users\nico\desktop\txt_fijo_y_variable\persona.c
+	"persona.h"
+
+1473453243 source:c:\users\nico\desktop\2do cuatri\txt_fijo_y_variable\archivos.c
+	"archivos.h"
+
+1473452708 c:\users\nico\desktop\2do cuatri\txt_fijo_y_variable\archivos.h
+	"persona.h"
+	<stdio.h>
+	<stdlib.h>
+
+1472858992 c:\users\nico\desktop\2do cuatri\txt_fijo_y_variable\persona.h
+	<stdio.h>
+	"fechas.h"
+
+1472856596 c:\users\nico\desktop\2do cuatri\txt_fijo_y_variable\fechas.h
+
+1473448116 source:c:\users\nico\desktop\2do cuatri\txt_fijo_y_variable\main.c
+	"archivos.h"
+
+1472859414 source:c:\users\nico\desktop\2do cuatri\txt_fijo_y_variable\persona.c
+	"persona.h"
+

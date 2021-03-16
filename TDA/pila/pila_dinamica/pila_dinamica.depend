@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1474659115 source:c:\users\nico\desktop\pila_dinamica\main.c
+	"pila.h"
+
+1474843229 c:\users\nico\desktop\pila_dinamica\pila.h
+	<stdio.h>
+	<stdlib.h>
+	"persona.h"
+
+1474655001 c:\users\nico\desktop\pila_dinamica\persona.h
+	<stdio.h>
+	"fechas.h"
+
+1472856596 c:\users\nico\desktop\pila_dinamica\fechas.h
+
+1474655818 source:c:\users\nico\desktop\pila_dinamica\persona.c
+	"persona.h"
+
+1474658447 source:c:\users\nico\desktop\pila_dinamica\pila.c
+	"pila.h"
+
+1474659115 source:c:\users\nico\desktop\2do cuatri\tda\pila\pila_dinamica\main.c
+	"pila.h"
+
+1474843229 c:\users\nico\desktop\2do cuatri\tda\pila\pila_dinamica\pila.h
+	<stdio.h>
+	<stdlib.h>
+	"persona.h"
+
+1474655001 c:\users\nico\desktop\2do cuatri\tda\pila\pila_dinamica\persona.h
+	<stdio.h>
+	"fechas.h"
+
+1472856596 c:\users\nico\desktop\2do cuatri\tda\pila\pila_dinamica\fechas.h
+
+1474655818 source:c:\users\nico\desktop\2do cuatri\tda\pila\pila_dinamica\persona.c
+	"persona.h"
+

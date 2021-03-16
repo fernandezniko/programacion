@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1481655104 source:c:\users\nico\desktop\strspn\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

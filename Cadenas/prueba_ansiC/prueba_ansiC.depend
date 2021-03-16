@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1473702234 source:c:\users\nico\desktop\prueba_ansic\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1488469025 source:c:\users\nico\desktop\2do cuatri\cadenas\prueba_ansic\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

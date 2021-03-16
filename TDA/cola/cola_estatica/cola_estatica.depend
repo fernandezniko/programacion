@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1474857934 source:c:\users\nico\desktop\cola_estatica\cola.c
+	"cola.h"
+
+1474857101 source:c:\users\nico\desktop\cola_estatica\main.c
+	"cola.h"
+
+1474857909 c:\users\nico\desktop\cola_estatica\cola.h
+	<stdio.h>
+	<stdlib.h>
+	"persona.h"
+
+1474655001 c:\users\nico\desktop\cola_estatica\persona.h
+	<stdio.h>
+	"fechas.h"
+
+1472856596 c:\users\nico\desktop\cola_estatica\fechas.h
+
+1474655818 source:c:\users\nico\desktop\cola_estatica\persona.c
+	"persona.h"
+
+1474857101 source:c:\users\nico\desktop\2do cuatri\tda\cola\cola_estatica\main.c
+	"cola.h"
+
+1476059345 c:\users\nico\desktop\2do cuatri\tda\cola\cola_estatica\cola.h
+	<stdio.h>
+	<stdlib.h>
+	"persona.h"
+
+1474655001 c:\users\nico\desktop\2do cuatri\tda\cola\cola_estatica\persona.h
+	<stdio.h>
+	"fechas.h"
+
+1472856596 c:\users\nico\desktop\2do cuatri\tda\cola\cola_estatica\fechas.h
+
+1474655818 source:c:\users\nico\desktop\2do cuatri\tda\cola\cola_estatica\persona.c
+	"persona.h"
+

@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1477411688 source:c:\users\nico\desktop\cola_circular\cola.c
+	"cola.h"
+
+1477410157 source:c:\users\nico\desktop\cola_circular\main.c
+	"cola.h"
+
+1477414709 c:\users\nico\desktop\cola_circular\cola.h
+	<stdio.h>
+	<stdlib.h>
+
+1477410157 source:c:\users\nico\desktop\2do cuatri\tda\cola_circular\main.c
+	"cola.h"
+
+1477414709 c:\users\nico\desktop\2do cuatri\tda\cola_circular\cola.h
+	<stdio.h>
+	<stdlib.h>
+
+1480376364 source:c:\users\nico\desktop\2do cuatri\tda\cola_circular\cola.c
+	"cola.h"
+

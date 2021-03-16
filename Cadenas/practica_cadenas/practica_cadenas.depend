@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1476052135 source:c:\users\nico\desktop\practica_cadenas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1476302944 source:c:\users\nico\desktop\2do cuatri\cadenas\practica_cadenas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1475861350 source:c:\users\nico\desktop\2do cuatri\c ++\hora\hora.cpp
+	"hora.h"
+
+1475861350 c:\users\nico\desktop\2do cuatri\c ++\hora\hora.h
+	<iostream>
+
+1475861350 source:c:\users\nico\desktop\2do cuatri\c ++\hora\main.cpp
+	"main.h"
+
+1475861350 c:\users\nico\desktop\2do cuatri\c ++\hora\main.h
+	<iostream>
+	"hora.h"
+

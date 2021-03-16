@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1474046933 source:c:\users\nico\desktop\txt_a_binario_fijo\archivos.c
+	"archivos.h"
+
+1474046822 c:\users\nico\desktop\txt_a_binario_fijo\archivos.h
+	"persona.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1472858992 c:\users\nico\desktop\txt_a_binario_fijo\persona.h
+	<stdio.h>
+	"fechas.h"
+
+1472856596 c:\users\nico\desktop\txt_a_binario_fijo\fechas.h
+
+1474049503 source:c:\users\nico\desktop\txt_a_binario_fijo\main.c
+	"archivos.h"
+
+1472859414 source:c:\users\nico\desktop\txt_a_binario_fijo\persona.c
+	"persona.h"
+
+1474046933 source:c:\users\nico\desktop\2do cuatri\txt_a_binario_fijo\archivos.c
+	"archivos.h"
+
+1474655001 c:\users\nico\desktop\2do cuatri\txt_a_binario_fijo\archivos.h
+	"persona.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1474655001 c:\users\nico\desktop\2do cuatri\txt_a_binario_fijo\persona.h
+	<stdio.h>
+	"fechas.h"
+
+1472856596 c:\users\nico\desktop\2do cuatri\txt_a_binario_fijo\fechas.h
+
+1474049503 source:c:\users\nico\desktop\2do cuatri\txt_a_binario_fijo\main.c
+	"archivos.h"
+
+1472859414 source:c:\users\nico\desktop\2do cuatri\txt_a_binario_fijo\persona.c
+	"persona.h"
+

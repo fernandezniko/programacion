@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1486847638 source:c:\users\nico\desktop\2do cuatri\c ++\persona\main.cpp
+	"main.h"
+	"persona.h"
+
+1478658204 c:\users\nico\desktop\2do cuatri\c ++\persona\main.h
+	<iostream>
+
+1486848585 c:\users\nico\desktop\2do cuatri\c ++\persona\persona.h
+	<string.h>
+	<iostream>
+	<stddef.h>
+
+1486848895 source:c:\users\nico\desktop\2do cuatri\c ++\persona\persona.cpp
+	"persona.h"
+

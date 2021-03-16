@@ -1,0 +1,85 @@
+# depslib dependency file v1.0
+1473184205 source:c:\users\nico\desktop\abrir_archivo\main.c
+	"archivo.h"
+	"persona.h"
+
+1473183763 c:\users\nico\desktop\abrir_archivo\archivo.h
+	<stdio.h>
+	<stdlib.h>
+	"persona.h"
+
+1473184142 source:c:\users\nico\desktop\abrir_archivo\archivo.c
+	"archivo.h"
+
+1472858992 c:\users\nico\desktop\abrir_archivo\persona.h
+	<stdio.h>
+	"fechas.h"
+
+1472856596 c:\users\nico\desktop\abrir_archivo\fechas.h
+
+1472859414 source:c:\users\nico\desktop\abrir_archivo\persona.c
+	"persona.h"
+
+1473203217 source:c:\users\laboratorios.unlmlab\desktop\abrir_archivo\archivo.c
+	"archivo.h"
+
+1473201499 c:\users\laboratorios.unlmlab\desktop\abrir_archivo\archivo.h
+	<stdio.h>
+	<stdlib.h>
+	"persona.h"
+
+1472858992 c:\users\laboratorios.unlmlab\desktop\abrir_archivo\persona.h
+	<stdio.h>
+	"fechas.h"
+
+1472856596 c:\users\laboratorios.unlmlab\desktop\abrir_archivo\fechas.h
+
+1473201802 source:c:\users\laboratorios.unlmlab\desktop\abrir_archivo\main.c
+	"archivo.h"
+	"persona.h"
+
+1472859414 source:c:\users\laboratorios.unlmlab\desktop\abrir_archivo\persona.c
+	"persona.h"
+
+1473791213 source:c:\users\nico\desktop\2do cuatri\abrir_archivo1\archivo.c
+	"archivo.h"
+
+1473446693 c:\users\nico\desktop\2do cuatri\abrir_archivo1\archivo.h
+	<stdio.h>
+	<stdlib.h>
+	"persona.h"
+
+1472858992 c:\users\nico\desktop\2do cuatri\abrir_archivo1\persona.h
+	<stdio.h>
+	"fechas.h"
+
+1472856596 c:\users\nico\desktop\2do cuatri\abrir_archivo1\fechas.h
+
+1473205140 source:c:\users\nico\desktop\2do cuatri\abrir_archivo1\main.c
+	"archivo.h"
+	"persona.h"
+
+1472859414 source:c:\users\nico\desktop\2do cuatri\abrir_archivo1\persona.c
+	"persona.h"
+
+1473791213 source:c:\users\nico\desktop\2do cuatri\archivos\abrir_archivo1\archivo.c
+	"archivo.h"
+
+1473446693 c:\users\nico\desktop\2do cuatri\archivos\abrir_archivo1\archivo.h
+	<stdio.h>
+	<stdlib.h>
+	"persona.h"
+
+1472858992 c:\users\nico\desktop\2do cuatri\archivos\abrir_archivo1\persona.h
+	<stdio.h>
+	"fechas.h"
+
+1472856596 c:\users\nico\desktop\2do cuatri\archivos\abrir_archivo1\fechas.h
+
+1473205140 source:c:\users\nico\desktop\2do cuatri\archivos\abrir_archivo1\main.c
+	"archivo.h"
+	"persona.h"
+
+1472859414 source:c:\users\nico\desktop\2do cuatri\archivos\abrir_archivo1\persona.c
+	"persona.h"
+

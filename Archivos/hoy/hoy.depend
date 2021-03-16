@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1472859363 source:c:\users\laboratorios\desktop\hoy\main.c
+	<stdio.h>
+	<stdlib.h>
+	"persona.h"
+	"fechas.h"
+
+1472858991 c:\users\laboratorios\desktop\hoy\persona.h
+	<stdio.h>
+	"fechas.h"
+
+1472856594 c:\users\laboratorios\desktop\hoy\fechas.h
+
+1472859413 source:c:\users\laboratorios\desktop\hoy\persona.c
+	"persona.h"
+

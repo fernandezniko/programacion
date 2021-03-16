@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1476039479 source:c:\users\nico\desktop\crear_archivo\main.c
+	"persona.h"
+	"archivo.h"
+
+1476039931 source:c:\users\nico\desktop\crear_archivo\persona.c
+	"persona.h"
+
+1475726271 c:\users\nico\desktop\crear_archivo\persona.h
+	<stdio.h>
+	<stdlib.h>
+
+1475727372 source:c:\users\nico\desktop\crear_archivo\archivo.c
+	"archivo.h"
+
+1475726056 c:\users\nico\desktop\crear_archivo\archivo.h
+	<stdio.h>
+	<stdlib.h>
+	"persona.h"
+
+1475727372 source:c:\users\nico\desktop\2do cuatri\archivos\crear_archivo\archivo.c
+	"archivo.h"
+
+1475726056 c:\users\nico\desktop\2do cuatri\archivos\crear_archivo\archivo.h
+	<stdio.h>
+	<stdlib.h>
+	"persona.h"
+
+1475726271 c:\users\nico\desktop\2do cuatri\archivos\crear_archivo\persona.h
+	<stdio.h>
+	<stdlib.h>
+
+1476039479 source:c:\users\nico\desktop\2do cuatri\archivos\crear_archivo\main.c
+	"persona.h"
+	"archivo.h"
+
+1476039931 source:c:\users\nico\desktop\2do cuatri\archivos\crear_archivo\persona.c
+	"persona.h"
+

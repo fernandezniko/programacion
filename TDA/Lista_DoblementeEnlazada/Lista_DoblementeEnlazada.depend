@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1477423132 source:c:\users\nico\desktop\lista_doblementeenlazada\lista.c
+	"lista.h"
+
+1477424260 c:\users\nico\desktop\lista_doblementeenlazada\lista.h
+	<stdio.h>
+	<stdlib.h>
+
+1477423132 source:c:\users\nico\desktop\lista_doblementeenlazada\main.c
+	"lista.h"
+
+1481667395 source:c:\users\nico\desktop\2do cuatri\tda\lista_doblementeenlazada\main.c
+	"lista.h"
+
+1481148058 c:\users\nico\desktop\2do cuatri\tda\lista_doblementeenlazada\lista.h
+	<stdio.h>
+	<stdlib.h>
+	"persona.h"
+
+1481667395 source:c:\users\nico\desktop\2do cuatri\tda\lista_doblementeenlazada\lista.c
+	"lista.h"
+
+1479493522 c:\users\nico\desktop\2do cuatri\tda\lista_doblementeenlazada\persona.h
+	<stdio.h>
+
+1478888783 source:c:\users\nico\desktop\2do cuatri\tda\lista_doblementeenlazada\persona.c
+	"persona.h"
+

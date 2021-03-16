@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1474990820 source:c:\users\nico\desktop\ejemplo\cola_estatica.c
+	"cola_estatica.h"
+
+1474992021 c:\users\nico\desktop\ejemplo\cola_estatica.h
+	<stdio.h>
+	<stdlib.h>
+	"persona.h"
+
+1474655001 c:\users\nico\desktop\ejemplo\persona.h
+	<stdio.h>
+	"fechas.h"
+
+1472856596 c:\users\nico\desktop\ejemplo\fechas.h
+
+1474999207 source:c:\users\nico\desktop\ejemplo\menu.c
+	"menu.h"
+
+1474991843 c:\users\nico\desktop\ejemplo\menu.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	"cola_estatica.h"
+
+1474655818 source:c:\users\nico\desktop\ejemplo\persona.c
+	"persona.h"
+
+1473469664 source:c:\users\nico\desktop\ejemplo\archivo.c
+	"archivo.h"
+
+1473469664 c:\users\nico\desktop\ejemplo\archivo.h
+	<stdio.h>
+	<stdlib.h>
+	"persona.h"
+
+1474999207 source:c:\users\nico\desktop\ejemplo\main.c
+	"cola_estatica.h"
+	"menu.h"
+	"archivo.h"
+

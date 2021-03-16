@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1480432396 source:c:\users\nico\desktop\pilacircular\main.c
+	"pila.h"
+
+1480432926 c:\users\nico\desktop\pilacircular\pila.h
+	<stdio.h>
+	<stdlib.h>
+
+1480433534 source:c:\users\nico\desktop\pilacircular\pila.c
+	"pila.h"
+

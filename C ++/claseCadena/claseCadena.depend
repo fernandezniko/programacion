@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1479680313 source:c:\users\nico\desktop\clasecadena\cadena.cpp
+	"cadena.h"
+	<iostream>
+
+1479680313 c:\users\nico\desktop\clasecadena\cadena.h
+	<string.h>
+	<stdlib.h>
+	<iostream>
+
+1479679650 source:c:\users\nico\desktop\clasecadena\main.cpp
+	"cadena.h"
+	<iostream>
+
+1485970802 source:c:\users\nico\desktop\2do cuatri\c ++\clasecadena\cadena.cpp
+	"cadena.h"
+	<iostream>
+
+1486848470 c:\users\nico\desktop\2do cuatri\c ++\clasecadena\cadena.h
+	<string.h>
+	<stdlib.h>
+	<iostream>
+
+1486847944 source:c:\users\nico\desktop\2do cuatri\c ++\clasecadena\main.cpp
+	"cadena.h"
+	<iostream>
+

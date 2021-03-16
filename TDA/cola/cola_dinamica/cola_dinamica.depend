@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1474858267 source:c:\users\nico\desktop\cola_dinamica\cola.c
+
+1474987438 source:c:\users\nico\desktop\cola_dinamica\main.c
+	"cola.h"
+
+1474990144 c:\users\nico\desktop\cola_dinamica\cola.h
+	<stdio.h>
+	<stdlib.h>
+	"persona.h"
+
+1474655001 c:\users\nico\desktop\cola_dinamica\persona.h
+	<stdio.h>
+	"fechas.h"
+
+1472856596 c:\users\nico\desktop\cola_dinamica\fechas.h
+
+1474655818 source:c:\users\nico\desktop\cola_dinamica\persona.c
+	"persona.h"
+
+1474987438 source:c:\users\nico\desktop\2do cuatri\tda\cola\cola_dinamica\main.c
+	"cola.h"
+
+1474990144 c:\users\nico\desktop\2do cuatri\tda\cola\cola_dinamica\cola.h
+	<stdio.h>
+	<stdlib.h>
+	"persona.h"
+
+1474655001 c:\users\nico\desktop\2do cuatri\tda\cola\cola_dinamica\persona.h
+	<stdio.h>
+	"fechas.h"
+
+1472856596 c:\users\nico\desktop\2do cuatri\tda\cola\cola_dinamica\fechas.h
+
+1474655818 source:c:\users\nico\desktop\2do cuatri\tda\cola\cola_dinamica\persona.c
+	"persona.h"
+

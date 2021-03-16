@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1473789806 source:c:\users\nico\desktop\ejercicio_4\archivo.c
+	"archivo.h"
+
+1473183763 c:\users\nico\desktop\ejercicio_4\archivo.h
+	<stdio.h>
+	<stdlib.h>
+	"persona.h"
+
+1476469784 c:\users\nico\desktop\ejercicio_4\persona.h
+	<stdio.h>
+	"fechas.h"
+
+1472856596 c:\users\nico\desktop\ejercicio_4\fechas.h
+
+1476470705 source:c:\users\nico\desktop\ejercicio_4\main.c
+	"archivo.h"
+	"pila.h"
+	"menu.h"
+
+1476471882 c:\users\nico\desktop\ejercicio_4\pila.h
+	<stdio.h>
+	<stdlib.h>
+	"persona.h"
+
+1476469784 source:c:\users\nico\desktop\ejercicio_4\persona.c
+	"persona.h"
+
+1476057391 source:c:\users\nico\desktop\ejercicio_4\pila.c
+	"pila.h"
+
+1476470859 source:c:\users\nico\desktop\ejercicio_4\menu.c
+	"menu.h"
+
+1473043709 c:\users\nico\desktop\ejercicio_4\menu.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+

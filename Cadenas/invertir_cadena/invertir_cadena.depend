@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1475608050 source:c:\users\nico\desktop\invertir_cadena\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1475608220 source:c:\users\nico\desktop\2do cuatri\cadenas\invertir_cadena\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

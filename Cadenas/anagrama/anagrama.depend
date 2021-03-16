@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1475437675 source:c:\users\nico\desktop\anagrama\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1481222780 source:c:\users\nico\desktop\2do cuatri\cadenas\anagrama\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

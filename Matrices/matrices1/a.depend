@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1472604620 source:c:\users\laboratorios\desktop\a\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1472840939 source:c:\users\nico\desktop\matrices\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1475446069 source:c:\users\nico\desktop\2do cuatri\matrices\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1481603076 source:c:\users\nico\desktop\2do cuatri\matrices\matrices1\main.c
+	<stdio.h>
+	<stdlib.h>
+

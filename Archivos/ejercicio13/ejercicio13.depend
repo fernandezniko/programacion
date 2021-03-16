@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1475723957 source:c:\users\nico\desktop\ejercicio13\archivos.c
+	"archivos.h"
+
+1475723595 c:\users\nico\desktop\ejercicio13\archivos.h
+	<stdio.h>
+	<stdlib.h>
+
+1476040507 source:c:\users\nico\desktop\ejercicio13\main.c
+	"archivo.h"
+	"persona.h"
+
+1475728319 source:c:\users\nico\desktop\ejercicio13\archivo.c
+	"archivo.h"
+
+1475728319 c:\users\nico\desktop\ejercicio13\archivo.h
+	<stdio.h>
+	<stdlib.h>
+	"persona.h"
+
+1475726271 c:\users\nico\desktop\ejercicio13\persona.h
+	<stdio.h>
+	<stdlib.h>
+
+1475727150 source:c:\users\nico\desktop\ejercicio13\persona.c
+	"persona.h"
+

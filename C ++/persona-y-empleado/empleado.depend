@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1484541904 source:c:\users\nico\desktop\2do cuatri\c ++\persona-y-empleado\mainemple.cpp
+	"mainemple.h"
+
+1479222914 c:\users\nico\desktop\2do cuatri\c ++\persona-y-empleado\mainemple.h
+	<iostream>
+	"persona.h"
+	"empleado.h"
+
+1479222914 c:\users\nico\desktop\2do cuatri\c ++\persona-y-empleado\persona.h
+	<iostream>
+	<string.h>
+	<stddef.h>
+
+1479222914 c:\users\nico\desktop\2do cuatri\c ++\persona-y-empleado\empleado.h
+	<iostream>
+	<string.h>
+	"persona.h"
+
+1479224746 source:c:\users\nico\desktop\2do cuatri\c ++\persona-y-empleado\persona.cpp
+	"persona.h"
+
+1484540643 source:c:\users\nico\desktop\2do cuatri\c ++\persona-y-empleado\empleado.cpp
+	"empleado.h"
+

@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1475258848 source:c:\users\nico\desktop\lista\lista.c
+	"lista.h"
+
+1475259843 source:c:\users\nico\desktop\lista\main.c
+	"lista.h"
+
+1475263616 c:\users\nico\desktop\lista\lista.h
+	<stdio.h>
+	<stdlib.h>
+	"persona.h"
+
+1474655001 c:\users\nico\desktop\lista\persona.h
+	<stdio.h>
+	"fechas.h"
+
+1472856596 c:\users\nico\desktop\lista\fechas.h
+
+1474655818 source:c:\users\nico\desktop\lista\persona.c
+	"persona.h"
+
+1480973235 source:c:\users\nico\desktop\2do cuatri\tda\lista\main.c
+	"lista.h"
+	"archivo.h"
+
+1481238894 c:\users\nico\desktop\2do cuatri\tda\lista\lista.h
+	<stdio.h>
+	<stdlib.h>
+	"persona.h"
+
+1476653762 c:\users\nico\desktop\2do cuatri\tda\lista\persona.h
+	<stdio.h>
+	"fechas.h"
+
+1472856596 c:\users\nico\desktop\2do cuatri\tda\lista\fechas.h
+
+1476653811 source:c:\users\nico\desktop\2do cuatri\tda\lista\persona.c
+	"persona.h"
+
+1481238894 source:c:\users\nico\desktop\2do cuatri\tda\lista\lista.c
+	"lista.h"
+
+1473469664 source:c:\users\nico\desktop\2do cuatri\tda\lista\archivo.c
+	"archivo.h"
+
+1473469664 c:\users\nico\desktop\2do cuatri\tda\lista\archivo.h
+	<stdio.h>
+	<stdlib.h>
+	"persona.h"
+

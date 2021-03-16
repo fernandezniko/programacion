@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1479689507 source:c:\users\nico\desktop\claseracional\main.cpp
+	"racional.h"
+	<iostream>
+
+1479689408 c:\users\nico\desktop\claseracional\racional.h
+	<stdio.h>
+	<iostream>
+
+1479689493 source:c:\users\nico\desktop\claseracional\racional.cpp
+	"racional.h"
+
+1480386035 source:c:\users\nico\desktop\2do cuatri\c ++\claseracional\main.cpp
+	"racional.h"
+	<iostream>
+
+1481947153 c:\users\nico\desktop\2do cuatri\c ++\claseracional\racional.h
+	<stdio.h>
+	<iostream>
+
+1481947170 source:c:\users\nico\desktop\2do cuatri\c ++\claseracional\racional.cpp
+	<iostream>
+	"racional.h"
+

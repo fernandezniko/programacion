@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1473786178 source:c:\users\nico\desktop\prodructo_matrices\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1473786178 source:c:\users\nico\desktop\2do cuatri\matrices\prodructo_matrices\main.c
+	<stdio.h>
+	<stdlib.h>
+
